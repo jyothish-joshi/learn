@@ -43,9 +43,9 @@ MMRMMRMRRM
 1 3 N 5 1 E
 ```
 
-## Run command: 
+## Run Instructions: 
 ```
-cat rover.txt | runhaskell marsrover.hs
+Import the 'java' project to eclipse and run MarsRoverMain class.
 ```
 
 
